@@ -5,6 +5,8 @@
 
    * ### Download glfw libray from https://www.glfw.org/download.html. Download *64-bit Windows binaries* from *Windows pre-compiled binaries*. ###  
    * ### Create **build** and **lib** folder in Code Repo. Put *glfw3.dll* from *lib-mingw-w64* folder of glfw library to **build** and **lib** folder.  ###
+   * ### For C++ compiler and make, Download MSYS2 Package Manager from https://www.msys2.org/ . ###  
+   * ### Run following commands in MSYS2 terminal: ```pacman -S base-devel``` and ```pacman -S gcc``` . ###  
    * ### Run ```make win``` in Terminal. ###
    * ### ```.exe``` file will be in **build** folder. ###
 ​
