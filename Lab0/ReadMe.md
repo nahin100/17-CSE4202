@@ -9,6 +9,7 @@
    * ### Run following commands in MSYS2 terminal: ```pacman -S base-devel``` and ```pacman -S gcc``` . ###  
    * ### Run ```make win``` in Terminal. ###
    * ### ```.exe``` file will be in **build** folder. ###
+   * ### if your code does not run, then you have to check openGL version by installing GLview from http://www.realtech-vr.com/home/glview . If your openGL version is below 3.3, then update windows ### 
 ​
 ## 2. Linux ##
 
