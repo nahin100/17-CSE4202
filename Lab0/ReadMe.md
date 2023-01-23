@@ -11,7 +11,7 @@
    * ### Run ```make win``` in Terminal. ###
    * ### ```.exe``` file will be in **build** folder. ###
    * ### if your code does not run, then you have to check openGL version by installing GLview from http://www.realtech-vr.com/home/glview . If your openGL version is below 3.3, then update windows. ### 
-   * ### ***if compiler say it cannot find khrplatform.h, then put this file https://github.com/nahin100/17-CSE4202/blob/main/Lab0/include/khrplatform.h in *include* folder. Also, change header file statement from ```#include <KHR/khrplatform.h>``` to ```#include "khrplatform.h"```*** ### 
+   * ### ***if compiler say it cannot find khrplatform.h, then put this file https://github.com/nahin100/17-CSE4202/blob/main/Lab0/include/khrplatform.h in *include* folder. Also, change header file statement from ```#include <KHR/khrplatform.h>``` to ```#include "khrplatform.h"``` in *glad.h* file in include folder*** ### 
    
 ​
 ## 2. Linux ##
